@@ -1,2 +1,2 @@
 # leetcode-solutions
-These are my HackerRank solutions. Profile link: https://leetcode.com/nora-nemeth
+These are my LeetCode solutions. Profile link: https://leetcode.com/nora-nemeth
